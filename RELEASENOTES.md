@@ -20,6 +20,9 @@
 -->
 # Release Notes
 
+### 3.0.2a (May 22, 2018)
+* [CB-12275](https://issues.apache.org/jira/browse/CB-12275): **iOS** fix Save the captured video the photo gallery
+
 ### 3.0.2 (Apr 12, 2018)
 * [CB-13866](https://issues.apache.org/jira/browse/CB-13866): **iOS** fix Camera opens in portrait orientation on iphones
 
